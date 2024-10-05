@@ -1,0 +1,1 @@
+# lab_arqui_azure
